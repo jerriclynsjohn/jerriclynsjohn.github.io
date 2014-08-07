@@ -1,0 +1,152 @@
+- name: Programming
+  image: /images/Revolt/Menu/Programming.png #This image is required
+  link: /programming/
+  subitems: 
+    - name: C/C++
+      image: /images/Revolt/Menu/Programming-CPP.png #This image is required
+      link: /programming/cpp/
+      topics:
+        - name: Sample
+          link: /posts/   #Change the link
+    - name: C#
+      image: /images/Revolt/Menu/Programming-CSharp.png #This image is required
+      link: /programming/csharp/
+      topics:
+        - name: Sample   #Change the link
+          link: /posts/
+    - name: Swift
+      image: /images/Revolt/Menu/Programming-Swift.png #This image is required
+      link: /programming/swift/
+      topics:
+        - name: Sample      #Change the link
+          link: /posts/
+    - name: Vala
+      image: /images/Revolt/Menu/Programming-Vala.png #This image is required
+      link: /programming/vala
+      topics:
+        - name: Sample      #Change the link
+          link: /posts/
+    - name: Ruby
+      image: /images/Revolt/Menu/Programming-Ruby.png #This image is required
+      link: /programming/ruby
+      topics:
+        - name: Sample      #Change the link
+          link: /posts/
+    - name: Python
+      image: /images/Revolt/Menu/Programming-Python.png #This image is required
+      link: /programming/python/
+      topics:
+        - name: Sample      #Change the link
+          link: /posts/
+- name: Technology
+  image: /images/Revolt/Menu/Technology.png #This image is required
+  link: /technology/
+  subitems: 
+    - name: Apple
+      image: /images/Revolt/Menu/Technology-Apple.png #This image is required
+      link: /technology/apple/
+      topics:
+        - name: Cocoa     #Change the link
+          link: /posts/
+    - name: Microsoft
+      image: /images/Revolt/Menu/Technology-Microsoft.png #This image is required
+      link: /technology/microsoft/
+      topics:
+        - name: PowerBI     #Change the link
+          link: /posts/
+    - name: Google
+      image: /images/Revolt/Menu/Technology-Google.png #This image is required
+      link: /technology/google/
+      topics:
+        - name: App Engine    #Change the link
+          link: /posts/
+    - name: Startup
+      image: /images/Revolt/Menu/Technology-Startup.png #This image is required
+      link: /technology/startup/
+      topics:
+        - name: Fin         #Change the link
+          link: /posts/
+- name: Reviews
+  image: /images/Revolt/Menu/Reviews.png #This image is required
+  link: /reviews/
+  subitems: 
+    - name: Mobile
+      image: /images/Revolt/Menu/Reviews-Mobile.png #This image is required
+      link: /reviews/mobile/
+      topics:
+        - name: Sample
+          link: /posts/   #Change the link
+    - name: Tablet
+      image: /images/Revolt/Menu/Reviews-Tablet.png #This image is required
+      link: /reviews/tablet/
+      topics:
+        - name: Sample
+          link: /posts/   #Change the link
+    - name: Laptop
+      image: /images/Revolt/Menu/Reviews-Laptop.png #This image is required
+      link: /reviews/laptop/
+      topics:
+        - name: Sample
+          link: /posts/   #Change the link
+    - name: Car
+      image: /images/Revolt/Menu/Reviews-Car.png #This image is required
+      link: /reviews/car/
+      topics:
+        - name: Sample
+          link: /posts/   #Change the link
+    - name: Bike
+      image: /images/Revolt/Menu/Reviews-Bike.png #This image is required
+      link: /reviews/bike/
+      topics:
+        - name: Sample
+          link: /posts/   #Change the link
+- name: Travel
+  image: /images/Revolt/Menu/Travel.png #This image is required
+  link: /travel/
+  subitems: 
+    - name: Dubai
+      image: /images/Revolt/Menu/Travel-Dubai.png #This image is required
+      link: /travel/dubai
+      topics:
+        - name: Sample
+          link: /posts/     #Change the link
+    - name: Shimla
+      image: /images/Revolt/Menu/Travel-Shimla.png #This image is required
+      link: /travel/shimla
+      topics:
+        - name: Sample
+          link: /posts/     #Change the link
+    - name: munnar
+      image: /images/Revolt/Menu/Travel-Munnar.png #This image is required
+      link: /travel/munnar
+      topics:
+        - name: Sample
+          link: /posts/     #Change the link
+- name: Life
+  image: /images/Revolt/Menu/Life.png #This image is required
+  link: /life/
+  subitems: 
+    - name: Business
+      image: /images/Revolt/Menu/Life-Business.png #This image is required
+      link: /life/business/
+      topics:
+        - name: Sample    #Change the link
+          link: /posts/
+    - name: Politics
+      image: /images/Revolt/Menu/Life-Politics.png #This image is required
+      link: /life/politics/
+      topics:
+        - name: Sample    #Change the link
+          link: /posts/
+    - name: SexRevolt
+      image: /images/Revolt/Menu/Life-SexRevolt.png #This image is required
+      link: /life/sexrevolt/
+      topics:
+        - name: Sample    #Change the link
+          link: /posts/
+    - name: CrashDump
+      image: /images/Revolt/Menu/Life-CrashDump.png #This image is required
+      link: /life/crashdump/
+      topics:
+        - name: Sample    #Change the link
+          link: /posts/

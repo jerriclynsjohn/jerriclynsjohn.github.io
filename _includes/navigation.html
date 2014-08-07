@@ -4,7 +4,7 @@
 		<li><a href="{{ site.url }}">Home</a></li>
 
 		<!-- Custom Menu -->
-		{% for menuitem in site.menuitems %}
+		{% for menuitem in site.data.menu %}
 			<li>
 				<a href="#">{{ menuitem.name }}</a>
 				<ul class="dl-submenu">
@@ -55,7 +55,7 @@
 				</li>
 				<li><a href="{{ site.url }}/about/">Learn More</a></li>
 				<!-- External links -->
-				{% for link in site.links %}
+				{% for link in site.data.links %}
 				<li>
 					{% if link.external %}
 					<a href="{{ link.url }}" target="_blank">{{ link.title }}</a>
