@@ -1,7 +1,7 @@
 # Links to include in top navigation
 # For external links add external: true
-- title: Picture
-  url: /picture
-- title: SwiftJuggler
-  url: http://swiftjuggler.com
-  external: true
+# - title: Picture
+#   url: /picture
+# - title: SwiftJuggler
+#   url: http://swiftjuggler.com
+#   external: true
