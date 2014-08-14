@@ -38,22 +38,22 @@
 #       topics:
 #         - name: Sample      #Change the link
 #           link: /posts/
-# - name: Technology
-#   image: /images/Revolt/Menu/Technology.png #This image is required
-#   link: /technology/
-#   subitems: 
+ - name: Technology
+   image: /images/Revolt/Menu/Technology.png #This image is required
+   link: /technology/
+   subitems: 
 #     - name: Apple
 #       image: /images/Revolt/Menu/Technology-Apple.png #This image is required
 #       link: /technology/apple/
 #       topics:
 #         - name: Cocoa     #Change the link
 #           link: /posts/
-#     - name: Microsoft
-#       image: /images/Revolt/Menu/Technology-Microsoft.png #This image is required
-#       link: /technology/microsoft/
-#       topics:
-#         - name: PowerBI     #Change the link
-#           link: /posts/
+     - name: Microsoft
+       image: /images/Revolt/Menu/Technology-Microsoft.png #This image is required
+       link: /technology/microsoft/
+       topics:
+         - name: Roslyn
+           link: /technology/microsoft/roslyn
 #     - name: Google
 #       image: /images/Revolt/Menu/Technology-Google.png #This image is required
 #       link: /technology/google/
