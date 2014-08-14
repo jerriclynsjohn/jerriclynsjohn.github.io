@@ -5,7 +5,7 @@ description: "I had a discussion about the performance and implementation detail
 modified: 2014-08-13
 tags: [Roslyn, Visual Studio 2013, VSIX, Plugin]
 image:
-  feature: Default.png
+  feature: Revolt/Default.png
   credit: Credit
   creditlink: http://www.swiftjuggler.com
 comments: true
