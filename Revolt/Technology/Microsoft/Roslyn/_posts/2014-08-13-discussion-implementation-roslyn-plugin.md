@@ -12,11 +12,11 @@ comments: true
 share: true
 ---
 
-I had a discussion about the performance and implementation details of a plugin using Roslyn in [CodePlex](https://roslyn.codeplex.com/discussions/549445) and [StackOverflow](http://stackoverflow.com/questions/25262618/can-multiple-vsix-with-vb-c-diagnostic-analyzer-codefix-autoupdate-cause-perfo). I wanted to share this same to everyone.
+I had a discussion about the performance and implementation details of a plugin using Roslyn in [CodePlex](https://roslyn.codeplex.com/discussions/549445) and [StackOverflow](http://stackoverflow.com/questions/25262618/can-multiple-vsix-with-vb-c-diagnostic-analyzer-codefix-autoupdate-cause-perfo). I wanted to share this to everyone.
 
-##To summarize the discussion was as follows
+#To summarize the discussion was as follows
 
-#Requirements
+###Requirements
 
 **Coexistence**: VSPackage extension (*to extend shell command component of Visual Studio*) and Managed Extensibility Framework/MEF extensions (*to customize and extend the editor to include Roslyn DiagnosticAnalyzer/CodeFix*), should coexist either in
 
