@@ -57,8 +57,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "R
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 'http://blog.swiftjuggler.com/'
+  #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
     _posts:
