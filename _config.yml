@@ -63,19 +63,23 @@ prose:
       - name: "layout"
         field:
           element: "text"
-          value: "post"
+          label: "Layout"
+          value: ""
+          placeholder: "post"
       - name: "title"
         field:
           element: "text"
           label: "Title"
           value: ""
+          placeholder: "Give a Title"
       - name: "description"
         field:
           element: "text"
           label: "Description"
           value: ""
+          placeholder: "Give a small description"
       - name: "tags"
         field:
           element: "text"
           label: "Add Tags"
-          placeholder: "Choose Tags"
+          placeholder: "Choose Tags [tag1, tag2, ..]"
