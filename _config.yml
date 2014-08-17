@@ -56,56 +56,26 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 
 prose:
-  #rooturl: '_posts'
   siteurl: 'http://blog.swiftjuggler.com/'
-  #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
+  media: 'images'
   metadata:
     _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
       - name: "layout"
         field:
-          element: "hidden"
-          value: "blog"
+          element: "text"
+          value: "post"
       - name: "title"
         field:
           element: "text"
           label: "Title"
           value: ""
-      - name: "splash"
+      - name: "description"
         field:
           element: "text"
-          label: "Splash image"
+          label: "Description"
           value: ""
       - name: "tags"
         field:
-          element: "multiselect"
+          element: "text"
           label: "Add Tags"
           placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
