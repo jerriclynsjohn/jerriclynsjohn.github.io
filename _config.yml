@@ -54,32 +54,3 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-
-prose:
-  siteurl: 'http://blog.swiftjuggler.com/'
-  media: 'images'
-  metadata:
-    Revolt:
-      - name: "layout"
-        field:
-          element: "text"
-          label: "Layout"
-          value: ""
-          placeholder: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-          placeholder: "Give a Title"
-      - name: "description"
-        field:
-          element: "text"
-          label: "Description"
-          value: ""
-          placeholder: "Give a small description"
-      - name: "tags"
-        field:
-          element: "text"
-          label: "Add Tags"
-          placeholder: "Choose Tags [tag1, tag2, ..]"
