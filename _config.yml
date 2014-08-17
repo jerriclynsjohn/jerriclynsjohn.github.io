@@ -1,9 +1,9 @@
 title:            SwiftJuggler
-description:      Programming, Technology, Reviews, Travel and Life.
+description:      Programming Technology Reviews Travel and Life.
 disqus_shortname: swiftjuggler
 reading_time:     true
 words_per_minute: 200
-url:              http://blog.swiftjuggler.com #http://0.0.0.0:4000 
+url:              http://blog.swiftjuggler.com #http://0.0.0.0:4000
 
 # Owner/author information
 owner:
@@ -33,7 +33,6 @@ future:      true
 highlighter: pygments
 markdown:    kramdown
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
