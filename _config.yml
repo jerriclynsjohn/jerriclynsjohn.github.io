@@ -54,3 +54,75 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://blog.swiftjuggler.com/'
+  relativeLinks: 'http://blog.swiftjuggler.com/links.jsonp'
+  media: 'images/revolt'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          value: ""
+      - name: "modified"
+        field:
+          element: "text"
+          label: "Modified on (Eg. 2014-08-13)"
+          value: ""
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags (Eg. [Blog, ..])"
+          value: ""
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Enable Comments"
+          value: "true"
+      - name: "share"
+        field:
+          element: "checkbox"
+          label: "Enable Share"
+          value: "true"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags (Eg. [Blog, ..])"
+          value: ""
+      - name: "share"
+        field:
+          element: "checkbox"
+          label: "Enable Share"
+          value: "true"
