@@ -1,10 +1,15 @@
 ---
 layout: post
+title: I've got NASA Orion's Boarding Pass!
 published: true
 comments: true
 share: true
 description: "NASA Orion's first test flight boarding pass"
-tags: "[NASA, Orion, Mars, Mangalyaan]"
+tags: [NASA, Orion, Mars, Mangalyaan]
+image:
+  feature: Revolt/Default.png
+  credit: JLJ
+  creditlink: http://www.swiftjuggler.com
 ---
 
 NASA's new spacecraft Orion appears to be all set for a launch this December 4, what’s even better is that NASA is inviting public to send their names, which will be etched onto a microchip, to travel around several destinations from Low-Earth orbits to even Mars. The [portal](http://go.usa.gov/vcpz) is open till October 31st, so go grab your boarding pass. 
