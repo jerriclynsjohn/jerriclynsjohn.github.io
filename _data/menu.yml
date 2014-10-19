@@ -38,22 +38,28 @@
 #       topics:
 #         - name: Sample      #Change the link
 #           link: /posts/
- - name: Technology
-   image: /images/Revolt/Menu/Technology.png #This image is required
-   link: /technology/
-   subitems: 
+- name: Technology
+  image: /images/Revolt/Menu/Technology.png #This image is required
+  link: /technology/
+  subitems: 
 #     - name: Apple
 #       image: /images/Revolt/Menu/Technology-Apple.png #This image is required
 #       link: /technology/apple/
 #       topics:
 #         - name: Cocoa     #Change the link
 #           link: /posts/
-     - name: Microsoft
-       image: /images/Revolt/Menu/Technology-Microsoft.png #This image is required
-       link: /technology/microsoft/
-       topics:
-         - name: Roslyn
-           link: /technology/microsoft/roslyn/
+    - name: Microsoft
+      image: /images/Revolt/Menu/Technology-Microsoft.png #This image is required
+      link: /technology/microsoft/
+      topics:
+        - name: Roslyn
+          link: /technology/microsoft/roslyn/
+        - name: Visual Studio
+          link: /technology/microsoft/visual-studio/
+        - name: ASP.NET
+          link: /technology/microsoft/asp-net/
+        - name: Windows Apps
+          link: /technology/microsoft/windows-apps/
 #     - name: Google
 #       image: /images/Revolt/Menu/Technology-Google.png #This image is required
 #       link: /technology/google/
@@ -147,6 +153,6 @@
     - name: CrashDump
       image: /images/Revolt/Menu/Life-CrashDump.png #This image is required
       link: /life/crashdump/
-      topics:
-        - name: Geeky    #Change the link
-          link: /life/crashdump/geeky/
+      # topics:
+      #   - name: Geeky    #Change the link
+      #     link: /life/crashdump/geeky/
