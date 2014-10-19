@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Sample Post
 comments: true
 share: true
