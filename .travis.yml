@@ -1,6 +1,11 @@
 language: ruby
 rvm:
 - 2.1
+
+install:
+  # Install Jekyll and dependencies
+  - bundle install
+  
 script: jekyll build && htmlproof ./_site
 
 # branch whitelist
