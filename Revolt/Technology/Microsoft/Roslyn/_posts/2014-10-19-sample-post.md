@@ -5,7 +5,7 @@ title: Sample Post
 comments: true
 share: true
 description: Sample Description
-tags: "[Sample, Post]"
+tags: "Sample, Post"
 ---
 
 ## A New Post
