@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Untitled
 comments: true
 share: true
