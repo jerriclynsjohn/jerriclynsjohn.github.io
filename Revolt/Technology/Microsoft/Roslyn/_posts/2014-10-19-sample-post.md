@@ -13,5 +13,6 @@ published: true
 
 ## A New Post
 ![SAP.jpg](Revolt/Technology/Microsoft/Roslyn/_posts/SAP.jpg)
+![Music_Missing_DJ_015190__edited.jpg](/Revolt/Technology/Microsoft/Roslyn/_posts/Music_Missing_DJ_015190__edited.jpg)
 
 Change text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
