@@ -122,10 +122,10 @@
 #       topics:
 #         - name: Sample
 #           link: /posts/     #Change the link
-# - name: Life
-#   image: /images/Revolt/Menu/Life.png #This image is required
-#   link: /life/
-#   subitems: 
+- name: Life
+  image: /images/Revolt/Menu/Life.png #This image is required
+  link: /life/
+  subitems: 
 #     - name: Business
 #       image: /images/Revolt/Menu/Life-Business.png #This image is required
 #       link: /life/business/
@@ -144,9 +144,9 @@
 #       topics:
 #         - name: Sample    #Change the link
 #           link: /posts/
-#     - name: CrashDump
-#       image: /images/Revolt/Menu/Life-CrashDump.png #This image is required
-#       link: /life/crashdump/
-#       topics:
-#         - name: Sample    #Change the link
-#           link: /posts/
+    - name: CrashDump
+      image: /images/Revolt/Menu/Life-CrashDump.png #This image is required
+      link: /life/crashdump/
+      topics:
+        - name: Geeky    #Change the link
+          link: /life/crashdump/geeky/
