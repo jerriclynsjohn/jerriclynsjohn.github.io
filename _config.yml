@@ -59,6 +59,7 @@ prose:
   siteurl: 'http://blog.swiftjuggler.com/'
   relativeLinks: 'http://blog.swiftjuggler.com/links.jsonp'
   media: 'images/revolt'
+  rooturl: 'Revolt'
   ignore:
     - index.md
     - _config.yml
