@@ -66,7 +66,7 @@ prose:
     - /_layouts
     - /_includes
   metadata:
-    Revolt:
+    "":
       - name: "layout"
         field:
           element: "hidden"
@@ -96,31 +96,6 @@ prose:
           element: "checkbox"
           label: "Enable Comments"
           value: "true"
-      - name: "share"
-        field:
-          element: "checkbox"
-          label: "Enable Share"
-          value: "true"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
-      - name: "tags"
-        field:
-          element: "text"
-          label: "Tags (Eg. [Blog, ..])"
-          value: ""
       - name: "share"
         field:
           element: "checkbox"
