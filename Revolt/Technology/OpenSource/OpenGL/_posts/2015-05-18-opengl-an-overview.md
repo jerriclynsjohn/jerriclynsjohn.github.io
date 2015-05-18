@@ -10,6 +10,7 @@ image:
   creditlink: http://www.swiftjuggler.com
 comments: true
 share: true
+published: false
 ---
 
 Sample Stub for prose
