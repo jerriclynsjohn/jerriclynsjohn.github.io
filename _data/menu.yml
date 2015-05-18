@@ -1,10 +1,10 @@
-- name: Programming
-  image: /images/Revolt/Menu/Programming.png #This image is required
-  link: /programming/
-  subitems: 
-    - name: C/C++
-      image: /images/Revolt/Menu/Programming-CPP.png #This image is required
-      link: /programming/cpp/
+# - name: Programming
+#   image: /images/Revolt/Menu/Programming.png #This image is required
+#   link: /programming/
+#   subitems: 
+#     - name: C/C++
+#       image: /images/Revolt/Menu/Programming-CPP.png #This image is required
+#       link: /programming/cpp/
 #       topics:
 #         - name: Sample
 #           link: /posts/   #Change the link
@@ -48,18 +48,24 @@
 #       topics:
 #         - name: Cocoa     #Change the link
 #           link: /posts/
+    - name: Open Source
+      image: /images/Revolt/Menu/Technology.png #This image is required
+      link: /technology/opensource/
+      topics:
+        - name: OpenGL
+          link: /technology/opensource/opengl/
     - name: Microsoft
       image: /images/Revolt/Menu/Technology-Microsoft.png #This image is required
       link: /technology/microsoft/
       topics:
         - name: Roslyn
           link: /technology/microsoft/roslyn/
-        - name: Visual Studio
-          link: /technology/microsoft/visual-studio/
-        - name: ASP.NET
-          link: /technology/microsoft/asp-net/
-        - name: Windows Apps
-          link: /technology/microsoft/windows-apps/
+#         - name: Visual Studio
+#           link: /technology/microsoft/visual-studio/
+#         - name: ASP.NET
+#           link: /technology/microsoft/asp-net/
+#         - name: Windows Apps
+#           link: /technology/microsoft/windows-apps/
 #     - name: Google
 #       image: /images/Revolt/Menu/Technology-Google.png #This image is required
 #       link: /technology/google/
