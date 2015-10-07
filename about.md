@@ -10,7 +10,7 @@ image:
 share: true
 ---
 
-I call myself an "Experienced dreamer and self proclaimed rocket scientist", its contradictory and not so true. SwiftJuggler, a pathetic name that I came up for my blog can be thought of as a name given to a brain dump of everything programming, technology, gadgets, travel, life and more. 
+I call myself an "Experienced dreamer and self proclaimed rocket scientist", its contradictory and not so true. SwiftJuggler, a pathetic name that I came up for my blog can be thought of as a name given to a brain dump of everything programming, technology, design, travel, life and more. 
 
 I have no intension of maintaining a standard in my blog nor will I censor my thought for anything except those that I think should absolutely be kept down. Keeping a separate blog for technology and another for life are for those who have them separated in life, so until I separate them you will see a wildly messy collection of blog posts. 
 

@@ -78,37 +78,37 @@
 #       topics:
 #         - name: Fin         #Change the link
 #           link: /posts/
-# - name: Reviews
-#   image: /images/Revolt/Menu/Reviews.png #This image is required
-#   link: /reviews/
+# - name: Design
+#   image: /images/Revolt/Menu/Design.png #This image is required
+#   link: /design/
 #   subitems: 
-#     - name: Mobile
-#       image: /images/Revolt/Menu/Reviews-Mobile.png #This image is required
-#       link: /reviews/mobile/
+#     - name: Think
+#       image: /images/Revolt/Menu/Design-Think.png #This image is required
+#       link: /design/think/
 #       topics:
 #         - name: Sample
 #           link: /posts/   #Change the link
-#     - name: Tablet
-#       image: /images/Revolt/Menu/Reviews-Tablet.png #This image is required
-#       link: /reviews/tablet/
+#     - name: Illustration
+#       image: /images/Revolt/Menu/Design-Ilustration.png #This image is required
+#       link: /design/illustration/
 #       topics:
 #         - name: Sample
 #           link: /posts/   #Change the link
-#     - name: Laptop
-#       image: /images/Revolt/Menu/Reviews-Laptop.png #This image is required
-#       link: /reviews/laptop/
+#     - name: Graphics
+#       image: /images/Revolt/Menu/Design-Graphics.png #This image is required
+#       link: /design/graphics/
 #       topics:
 #         - name: Sample
 #           link: /posts/   #Change the link
-#     - name: Car
-#       image: /images/Revolt/Menu/Reviews-Car.png #This image is required
-#       link: /reviews/car/
+#     - name: Industrial
+#       image: /images/Revolt/Menu/Design-Industrial.png #This image is required
+#       link: /design/industrial/
 #       topics:
 #         - name: Sample
 #           link: /posts/   #Change the link
-#     - name: Bike
-#       image: /images/Revolt/Menu/Reviews-Bike.png #This image is required
-#       link: /reviews/bike/
+#     - name: General
+#       image: /images/Revolt/Menu/Design-General.png #This image is required
+#       link: /design/general/
 #       topics:
 #         - name: Sample
 #           link: /posts/   #Change the link
