@@ -1,9 +1,21 @@
 ---
-layout: post
 title: Discussion and implementation of a plugin using Roslyn
-description: "I had a discussion about the performance and implementation details of a plugin using Roslyn in CodePlex and StackOverflow. I wanted to share this same to everyone."
-modified: 2014-08-13
-tags: [Roslyn, Visual Studio 2013, VSIX, Plugin]
+date: 2014-08-13 00:00:00 +05:30
+categories:
+- Revolt
+- Technology
+- Microsoft
+- Roslyn
+tags:
+- Roslyn
+- Visual Studio 2013
+- VSIX
+- Plugin
+layout: post
+description: I had a discussion about the performance and implementation details of
+  a plugin using Roslyn in CodePlex and StackOverflow. I wanted to share this same
+  to everyone.
+modified: 2014-08-13 05:30:00 +05:30
 image:
   feature: Revolt/Default.png
   credit: JLJ

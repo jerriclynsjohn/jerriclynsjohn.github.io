@@ -1,9 +1,19 @@
 ---
-layout: post
 title: How I taught Mac OS X to write into an NTFS filesystem.
-description: "Workaround to make Mac OS X write into an NTFS filesystem."
+date: 2015-05-20 00:00:00 +05:30
+categories:
+- Revolt
+- Technology
+- Apple
+tags:
+- Mac OS X
+- Yosemite
+- NTFS
+- Homebrew
+- FUSE
+layout: post
+description: Workaround to make Mac OS X write into an NTFS filesystem.
 modified: 
-tags: [Mac OS X, Yosemite, NTFS, Homebrew, FUSE]
 image:
   feature: Revolt/Default.png
   credit: JLJ

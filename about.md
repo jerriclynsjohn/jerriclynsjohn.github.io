@@ -1,8 +1,14 @@
 ---
-layout: page
-permalink: /about/
 title: SwiftJuggler
-tags: [blog, programming, technology, reviews, travel, life]
+permalink: "/about/"
+layout: page
+tags:
+- blog
+- programming
+- technology
+- reviews
+- travel
+- life
 image:
   feature: Revolt/About.jpg
   credit: JLJ

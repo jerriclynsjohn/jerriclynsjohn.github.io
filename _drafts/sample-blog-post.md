@@ -1,17 +1,23 @@
 ---
-layout: post
 title: Sample Blog Title
-published: false #true if you want to publish
+date: 2014-12-19 00:00:00 +05:30
+categories:
+- Revolt
+- Life
+- CrashDump
+tags:
+- Tag1
+- Tag2
+- Tag3
+layout: post
 comments: true
 share: true
-description: "A brief description about the title"
-tags: [Tag1, Tag2, Tag3]
+description: A brief description about the title
 image:
-  feature: Revolt/Default.png 					#default image
-  credit: JLJ									#Name for courtesy
-  creditlink: http://www.swiftjuggler.com 		#Link for the image courtesy
+  feature: Revolt/Default.png
+  credit: JLJ
+  creditlink: http://www.swiftjuggler.com
 ---
-
 
 General notes and suggestions for writing a blog in **SwiftJuggler**.
 

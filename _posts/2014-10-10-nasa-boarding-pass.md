@@ -1,11 +1,19 @@
 ---
-layout: post
 title: I've got a NASA Boarding Pass!
-published: true
+date: 2014-10-10 00:00:00 +05:30
+categories:
+- Revolt
+- Life
+- CrashDump
+tags:
+- NASA
+- Orion
+- Mars
+- Mangalyaan
+layout: post
 comments: true
 share: true
-description: "NASA Orion first test flight and boarding pass"
-tags: [NASA, Orion, Mars, Mangalyaan]
+description: NASA Orion first test flight and boarding pass
 image:
   feature: Revolt/Default.png
   credit: JLJ
