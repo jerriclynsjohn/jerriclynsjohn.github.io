@@ -4,7 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-posts
+- type: directory
+  path: Revolt
   label: Posts
   create: all
   match: "**/*"
