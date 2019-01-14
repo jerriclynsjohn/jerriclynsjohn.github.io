@@ -1,0 +1,22 @@
+---
+label: Blog-Templates
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Name of the Blog
+  config:
+    required: true
+- type: select
+  name: author
+  config:
+    source:
+      type: simple
+    options:
+    - jerric
+    - sandeep
+    required: true
+  label: Author
+  description: Who is writing this blog?
