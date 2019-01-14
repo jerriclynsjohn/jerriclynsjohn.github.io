@@ -20,3 +20,5 @@ fields:
     required: true
   label: Author
   description: Who is writing this blog?
+pages:
+- Revolt/some-clean-changes.md
